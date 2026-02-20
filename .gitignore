@@ -10,6 +10,8 @@ Icon
 .Trashes
 ._*
 
+# Node modules
+node_modules/
 
 ############################
 # Linux

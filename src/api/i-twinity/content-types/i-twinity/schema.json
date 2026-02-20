@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "i_twinities",
+  "info": {
+    "singularName": "i-twinity",
+    "pluralName": "i-twinities",
+    "displayName": "iTwinity"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "video": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}
